@@ -73,3 +73,7 @@ j = np.arange(5)
 print(j)
 print(np.exp(j))
 print(np.cos(j))
+
+# Indexing is as in MATLAB
+k = np.arange(5)**2
+
